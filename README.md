@@ -2,7 +2,7 @@
   <img src="assets/profile-banner.gif" width="100%" alt="Privatus Cosmas — Software Engineer. Web, mobile, AI and business systems. Based in Tanzania." />
 </p>
 
-<h1 align="center">Hi, I'm Privatus Cosmas</h1>
+<h3 align="center">Thoughtful interfaces. Connected systems. Useful software.</h3>
 <p align="center"><strong>Software Engineer · Full-Stack & Mobile Developer · CEO of INCPRITECH</strong></p>
 <p align="center">I build practical digital products that help people and businesses get things done.</p>
 
@@ -13,16 +13,18 @@
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> ·
-  <a href="#what-i-build">Expertise</a> ·
-  <a href="#selected-projects">Projects</a> ·
-  <a href="#technology-toolkit">Technology</a> ·
-  <a href="#lets-connect">Contact</a>
+  <a href="#about">About</a> ·
+  <a href="#expertise">Expertise</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#technology">Technology</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
----
+<p align="center"><img src="assets/flow-divider.gif" width="100%" alt="" /></p>
 
-## About me
+<a id="about"></a>
+
+## 01 / About me
 
 I'm a software engineer based in **Mbeya, Tanzania**, working across web applications, mobile experiences, AI tools and business systems. I enjoy taking an idea through its practical details: the interface people use, the services behind it, and the workflows that make it useful.
 
@@ -39,7 +41,9 @@ Alongside my software engineering work at **Rohi Company Limited**, I lead **INC
 | **Focus** | Web and mobile products, SaaS, AI integrations and business automation |
 | **Writing & personal story** | [depriver.tech](https://depriver.tech) |
 
-## What I build
+<a id="expertise"></a>
+
+## 02 / What I build
 
 - **Web applications:** responsive interfaces, dashboards, portals and interactive product experiences.
 - **Mobile applications:** Flutter and Dart applications, with an interest in useful, accessible experiences across devices.
@@ -48,41 +52,38 @@ Alongside my software engineering work at **Rohi Company Limited**, I lead **INC
 - **Systems integration:** connecting applications and services so information can move between them reliably.
 - **Data experiences:** dashboards, reports and tools that make business information easier to understand.
 
-## Selected projects
+<a id="projects"></a>
+
+## 03 / Selected projects
 
 A selection of my public repositories and product work. The repositories below show different stages of development; see each project's documentation for its current scope.
 
-### incdai — AI interfaces and tooling
-
-Public interfaces for INCPRITECH's sovereign, decentralized AI runtime, with conversational experiences in **English and Swahili**. The public repository includes JavaScript and Python SDKs, an embeddable website widget, protocol documentation and integration examples.
-
-**Focus:** AI integration · Developer tooling · Interoperable APIs · Voice and chat
-
-[Repository](https://github.com/priverjr/incdai) · [Website](https://incdai.incpritech.com) · [Documentation](https://incdai.incpritech.com/docs/)
-
-### Percelio — Courier and logistics applications
-
-A courier and logistics platform explored through a **Flutter mobile application** and a companion web repository. The mobile codebase organizes screens, models, services and reusable widgets around the delivery experience.
-
-**Focus:** Mobile development · Logistics workflows · Application architecture
-
-[Mobile repository](https://github.com/priverjr/percelio-app) · [Web repository](https://github.com/priverjr/percelio-web)
-
-### depriver.tech — Personal website and writing
-
-My personal storytelling website and blog, built with **Astro, GSAP and Lenis**. A place to share my journey, lessons and ideas, with an emphasis on typography, motion and a thoughtful reading experience.
-
-**Focus:** Content-driven websites · Frontend development · Interaction design
-
-[Repository](https://github.com/priverjr/depriver-tech) · [Visit website](https://depriver.tech)
-
-### Privatus — Interactive developer portfolio
-
-A portfolio built with **React and Vite**, featuring Three.js visuals, Framer Motion animations and reusable interface components.
-
-**Focus:** React · Creative frontend development · Motion and 3D interfaces
-
-[Repository](https://github.com/priverjr/Privatus)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/priverjr/incdai"><img src="assets/project-incdai.gif" width="100%" alt="incdai — AI interfaces, SDKs and conversational tools. Python and JavaScript." /></a>
+<p>Public interfaces for INCPRITECH's sovereign, decentralized AI runtime. JavaScript and Python SDKs, an embeddable widget, protocol documentation and integration examples, supporting experiences in <strong>English and Swahili</strong>.</p>
+<p><a href="https://github.com/priverjr/incdai"><strong>Explore code ↗</strong></a> · <a href="https://incdai.incpritech.com/docs/">Documentation</a> · <a href="https://incdai.incpritech.com">Website</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/priverjr/percelio-app"><img src="assets/project-percelio.gif" width="100%" alt="Percelio — mobile experiences for courier workflows, built with Flutter and Dart." /></a>
+<p>A courier and logistics platform explored through a <strong>Flutter mobile application</strong> and a companion web repository. Screens, models, services and reusable widgets organized around the delivery experience.</p>
+<p><a href="https://github.com/priverjr/percelio-app"><strong>Mobile code ↗</strong></a> · <a href="https://github.com/priverjr/percelio-web">Web code</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://depriver.tech"><img src="assets/project-depriver.gif" width="100%" alt="depriver.tech — stories, ideas and a personal web experience, built with Astro and GSAP." /></a>
+<p>My personal storytelling website and blog, built with <strong>Astro, GSAP and Lenis</strong>. Sharing my journey, lessons and ideas through considered typography, motion and a thoughtful reading experience.</p>
+<p><a href="https://github.com/priverjr/depriver-tech"><strong>Explore code ↗</strong></a> · <a href="https://depriver.tech">Read the blog</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/priverjr/Privatus"><img src="assets/project-privatus.gif" width="100%" alt="Privatus — an interactive developer portfolio, built with React, Three.js and motion." /></a>
+<p>An interactive portfolio built with <strong>React and Vite</strong>, featuring Three.js visuals, Framer Motion animations and reusable interface components. An exploration of creative frontend development.</p>
+<p><a href="https://github.com/priverjr/Privatus"><strong>Explore code ↗</strong></a></p>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><strong>More projects and experiments</strong></summary>
@@ -99,7 +100,7 @@ These projects reflect my learning and experimentation alongside product develop
 
 </details>
 
-## Building with INCPRITECH
+## 04 / Building with INCPRITECH
 
 Through INCPRITECH, I work on software that supports everyday business and service workflows. Product areas include:
 
@@ -113,7 +114,20 @@ Through INCPRITECH, I work on software that supports everyday business and servi
 
 Explore the company at **[incpritech.com](https://incpritech.com)**. For source code and technical documentation, see the public repositories linked above.
 
-## Technology toolkit
+<a id="technology"></a>
+
+## 05 / Technology toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-101b2b?style=for-the-badge&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-101b2b?style=for-the-badge&amp;logo=dart&amp;logoColor=54C5F8" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-101b2b?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-101b2b?style=for-the-badge&amp;logo=typescript&amp;logoColor=79AEFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-101b2b?style=for-the-badge&amp;logo=python&amp;logoColor=FFD76B" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-101b2b?style=for-the-badge&amp;logo=django&amp;logoColor=78C6A3" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-101b2b?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=8DC98C" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-101b2b?style=for-the-badge&amp;logo=git&amp;logoColor=F08070" alt="Git" />
+</p>
 
 Technologies I use across product work, public projects and experimentation:
 
@@ -127,7 +141,7 @@ Technologies I use across product work, public projects and experimentation:
 | **Programming foundations** | C++ · Java · Object-oriented programming |
 | **Development workflow** | Git · GitHub · API integration · Technical documentation |
 
-## How I approach engineering
+## 06 / How I approach engineering
 
 1. **Understand the problem.** Start with the people, constraints and workflow the product needs to serve.
 2. **Make the experience clear.** Design interfaces and flows that are easy to learn and practical to use.
@@ -137,13 +151,15 @@ Technologies I use across product work, public projects and experimentation:
 
 I'm especially interested in tools that work well in local contexts, support **Kiswahili**, and make useful technology more accessible.
 
-## Beyond the code
+## 07 / Beyond the code
 
 I also enjoy **photography, video and content creation**, alongside piano, music, bike rides, calisthenics, nature and gaming. Creativity and curiosity shape both my technical work and the stories I share.
 
 [Read my story →](https://depriver.tech/story/)
 
-## Let's connect
+<a id="contact"></a>
+
+## 08 / Let's connect
 
 Have a product idea, a technical challenge or an opportunity to collaborate? Send me a short introduction and tell me what you're building.
 
@@ -154,8 +170,10 @@ Have a product idea, a technical challenge or an opportunity to collaborate? Sen
 | **GitHub** | [github.com/priverjr](https://github.com/priverjr) |
 | **INCPRITECH** | [incpritech.com](https://incpritech.com) |
 
----
+<p align="center"><img src="assets/flow-divider.gif" width="100%" alt="" /></p>
 
 <p align="center"><strong>Built with curiosity. Focused on useful software. Made in Tanzania.</strong></p>
+
+<p align="center"><a href="assets/profile-banner.png">View the static banner</a></p>
 
 <!-- The animated banner is stored in this repository. Regenerate with scripts/generate_banner.py; see scripts/README.md. -->
